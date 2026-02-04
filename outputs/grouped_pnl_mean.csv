@@ -1,0 +1,7 @@
+freq_group,sentiment,Closed PnL
+Frequent,Fear,47.32587547865958
+Frequent,Greed,41.476621436594
+Frequent,Neutral,34.57970092659929
+Infrequent,Fear,61.96883322113412
+Infrequent,Greed,155.89634064055159
+Infrequent,Neutral,31.845656229394507
